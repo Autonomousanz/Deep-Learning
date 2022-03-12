@@ -6,5 +6,5 @@ It involves basic codes for implementation of Deep learning Algorithms like :
 2.  Deep Neural Networks ,
 3.  Convolutional Nueral Networks
 
-# Deep- Learning Project 
-Deep learning-based Lane Detection Techniques in Foggy weather Conditions
+## Deep- Learning Project :
+## Deep learning-based Lane Detection Techniques in Foggy weather Conditions
